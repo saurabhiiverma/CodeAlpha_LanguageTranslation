@@ -1,0 +1,82 @@
+🌍 AI Language Translator Web App
+
+An interactive and user-friendly language translator web application built using **HTML, CSS, and JavaScript**.  
+This project enables users to translate text between multiple languages in real-time, along with advanced features like voice input and speech output.
+
+📌 Overview
+
+The AI Language Translator Web App is designed to provide a seamless translation experience directly in the browser.  
+It integrates translation APIs and browser-based speech technologies to create a modern, responsive, and interactive application.
+
+✨ Key Features
+
+🌐 Language Translation
+- Translate text between multiple languages (English, Hindi, French, Spanish, etc.)
+- Real-time API-based translation
+🎤 Voice Input
+- Convert speech into text using Web Speech API
+- Helps users input text hands-free
+🔊 Text-to-Speech
+- Listen to translated text
+- Enhances accessibility and usability
+📋 Copy to Clipboard
+- One-click copy functionality for translated text
+💎 Modern UI/UX
+- Glassmorphism design
+- Clean and responsive layout
+- Smooth user interaction
+
+🛠️ Tech Stack
+
+Technology-Usage
+HTML5-Structure of the web app
+CSS3-Styling and UI design
+JavaScript (Vanilla)-Functionality and API handling
+MyMemory Translation API-Language translation
+Web Speech API-Voice input & speech output
+
+📂 Project Structure
+
+⚙️ How It Works
+1. User enters text or uses voice input
+2. Selected source and target languages are processed
+3. A request is sent to the translation API
+4. Translated text is displayed instantly
+5. User can copy or listen to the output
+
+▶️ How to Run the Project
+Method 1: Using Browser
+1. Download or clone the repository
+2. Open `translation.html` in any modern browser
+Method 2: Using Live Server (Recommended)
+1. Open the project in VS Code
+2. Install Live Server extension
+3. Right-click `translation.html`
+4. Click **"Open with Live Server"**
+
+🔐 Permissions Required
+- 🎤 Microphone access (for voice input)
+- 📋 Clipboard access (for copy feature)
+
+⚠️ Limitations
+- Requires internet connection for API calls
+- Translation accuracy depends on API
+- Speech recognition may vary across browsers
+
+🚀 Future Enhancements
+- 🌎 Auto language detection
+- 📱 Mobile optimization improvements
+- 🎨 Dark/Light mode toggle
+- 📚 Translation history feature
+- 🔑 Integration with more powerful APIs (like Google Translate API)
+
+🙌 Acknowledgements
+
+- MyMemory Translation API
+- Web Speech API
+- Open-source community
+
+👩‍💻 Author
+Saurabhi Verma
+
+⭐ If you like this project, don’t forget to star the repository!
